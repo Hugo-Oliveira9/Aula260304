@@ -1,0 +1,21 @@
+[
+    {
+        "nome": "Judite",
+        "idade": "30",
+        "altura":"1.82",
+        "pais": "Brasil"
+
+    },
+    {
+        "nome": "Maria",
+        "idade": "22",
+        "altura":"1,66",
+        "pais":"Brasil"
+    },
+    {
+        "nome": "Alfredo",
+        "idade": "34",
+        "altura": "1,85",
+        "pais": "Brasil"
+    }
+]
